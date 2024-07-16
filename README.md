@@ -29,8 +29,8 @@ How It Works :-->
 1. The user activates the assistant with a wake word or phrase.
 2. The assistant listens for voice commands, which are then processed using the speech_recognition module.
 3. Based on the recognized command, the assistant can:
-   Search the web for information and open results in a browser.
-   Retrieve the latest news headlines using the NewsAPI.
+   Search the web for information and open results in a browser,
+   Retrieve the latest news headlines using the NewsAPI,
    Generate responses or engage in conversation using the OpenAI API.
 4. The assistant provides vocal feedback using the pyttsx3 and gtts modules, allowing for interactive communication.
 5. Optional offline capabilities using pocketsphinx ensure basic functionality without internet access.
