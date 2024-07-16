@@ -1,4 +1,4 @@
-# voice-assistant
+# Voice Assistant Using Python
 
 Modules Imported / Used :-->
 1. speech_recognition
@@ -10,3 +10,6 @@ Modules Imported / Used :-->
 7. pygame
 8. os
 9. pocketsphinx
+
+API keys Used of :-->   1. OpenAPI
+                        2. NewsAPI
