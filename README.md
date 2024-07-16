@@ -12,4 +12,4 @@ Modules Imported / Used :-->
 9. pocketsphinx
 
 API keys Used of :-->   1. OpenAPI
-                        2. NewsAPI
+                             2. NewsAPI
