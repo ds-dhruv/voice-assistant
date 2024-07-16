@@ -26,7 +26,7 @@ API Keys Used :-->
 2. NewsAPI : Provides access to a wide range of news articles and headlines.
 
 How It Works :-->
-1. The user activates the assistant with a wake word or phrase.
+1. The user activates the assistant with a wake word ("JARVIS").
 2. The assistant listens for voice commands, which are then processed using the speech_recognition module.
 3. Based on the recognized command, the assistant can :- 
    Search the web for information and open results in a browser,
